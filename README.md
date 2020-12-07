@@ -18,10 +18,13 @@ For feature selection the main goal that I had was reducing mulitcolinearity and
 
 ## Modeling 
 
-
+The model I used for presentation as my chosen model was the OLS model with no regularization and no polynomial terms. All of the models performed simillarly with the R^2 values not changing much from model to model in comparison with the inital linear regression model that was run before feature selection. The OLS model with no regularization performed the exact same as the model with L2 (Ridge) regularization. The model with no regularization and no polynomial terms had the lowest RMSE which is how I made the decision to choose and present that model. The OLS model with polynomials had th ebest improvement in R^2 which made it a viable option but when I cross validated the model with no polynomials still had the best performance.
 
 ## Conclusion
 
+When I come back to it in the future I need to collect more data outside from just Metacritic values and the runtime, genre and other basic details about the films. With more time on the project I would experiment more with polynomial terms for individual features and see the effect that it would have on the model. I would also look to see how logarithmic transformations on features would decrease multicolinearity and increase the number of features.
 
+Overall I'm pretty happy with my first data science project and look forward to doing more regressions in the future. I can see how they are helpful in the entertainment industry and they're value must also be infinite in a medical setting where you can try to identify specific values for risk factors for disease or predicting hospital emergency room visits depending on time of year, the weather, what is going on socially, the population.
 
-
+Thanks for checking out my project!
+If you have any questions or anything to discuss about my project you can find me at [Sean Sisler's LinkedIn](https:///www.linkedin.com/in/seansisler/) or you can reach me by email at **seantsisler@gmail.com**.
