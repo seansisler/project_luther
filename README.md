@@ -27,4 +27,4 @@ When I come back to it in the future I need to collect more data outside from ju
 Overall I'm pretty happy with my first data science project and look forward to doing more regressions in the future. I can see how they are helpful in the entertainment industry and they're value must also be infinite in a medical setting where you can try to identify specific values for risk factors for disease or predicting hospital emergency room visits depending on time of year, the weather, what is going on socially, the population.
 
 Thanks for checking out my project!
-If you have any questions or anything to discuss about my project you can find me at [Sean Sisler's LinkedIn](https:///www.linkedin.com/in/seansisler/) or you can reach me by email at **seantsisler@gmail.com**.
+If you have any questions or anything to discuss about my project you can connect with me on [LinkedIn](https:///www.linkedin.com/in/seansisler/) or you can reach me by email at **seantsisler@gmail.com**.
