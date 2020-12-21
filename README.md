@@ -22,7 +22,7 @@ The model I used for presentation as my chosen model was the OLS model with no r
 
 ## Conclusion
 
-When I come back to it in the future I need to collect more data outside from just Metacritic values and the runtime, genre and other basic details about the films. With more time on the project I would experiment more with polynomial terms for individual features and see the effect that it would have on the model. I would also look to see how logarithmic transformations on features would decrease multicolinearity and increase the number of features.
+When I come back to this project in the future I need to collect more data outside from just Metacritic values and the runtime, genre and other basic details about the films. With more time on the project I would experiment more with polynomial terms for individual features and see the effect that it would have on the model. I would also look to see how logarithmic transformations on features would decrease multicolinearity and increase the number of features.
 
 Overall I'm pretty happy with my first data science project and look forward to doing more regressions in the future. I can see how they are helpful in the entertainment industry and they're value must also be infinite in a medical setting where you can try to identify specific values for risk factors for disease or predicting hospital emergency room visits depending on time of year, the weather, what is going on socially, the population.
 
